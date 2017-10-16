@@ -1,6 +1,8 @@
-ZPRep è una sonda Z replicabile nata in 3dingegno.com da MaurinoWeb e Marco Spaccialbelli. Tutti i modelli 3d puoi scaricarli da github.
+**ITALIANO** / [ENGLISH](README.md)
 
-ZPRep è l'acronimo di Z Probe Replicable, può essere replicata con qualsiasi stampante 3d con un buon settaggio, può essere utilizzata su tutte le stampanti 3d e funziona su tutti i tipi di letto.
+ZPRep è una sonda Z replicabile nata in [3Dingegno.com](http://3dingegno.com/blog/) da MaurinoWeb e Marco Spaccialbelli. Tutti i modelli 3d puoi scaricarli da github.
+
+**ZPRep** è l'acronimo di **Z** **P**robe **Rep**licable, può essere replicata con qualsiasi stampante 3d con un buon settaggio, può essere utilizzata su tutte le stampanti 3d e funziona su tutti i tipi di letto.
 
 Ha bisogno di un attuatore, ma la meccanica dell'attuatore può avere errori fino a 1,5mm senza compromettere la precisione della sonda ZPRep ;-)
 
