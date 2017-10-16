@@ -1,6 +1,8 @@
-ZPRep is a replicable Z probe born in 3dingegno.com by MaurinoWeb and Marco Spaccialbelli. All 3d models can be downloaded from github.
+**ENGLISH** / [ITALIANO](README(IT).md)
 
-ZPRep is the acronym of Z Probe Replicable, can be replicated with any 3d printer with a good set up, can be used on all 3d printers and works on all types of bed.
+ZPRep is a replicable Z probe born in [3Dingegno.com](http://3dingegno.com/blog/) by MaurinoWeb and Marco Spaccialbelli. All 3d models can be downloaded from github.
+
+**ZPRep** is the acronym of **Z** **P**robe **Rep**licable, can be replicated with any 3d printer with a good set up, can be used on all 3d printers and works on all types of bed.
 
 For now, it must be activated with an actuator, but the mechanism of the actuator may have errors up to 1.5mm without compromising the precision of the ZPRep probe.
 
