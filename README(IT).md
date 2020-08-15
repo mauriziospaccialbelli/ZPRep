@@ -1,5 +1,7 @@
 **ITALIANO** / [ENGLISH](README.md)
 
+Sostieni il progetto 3Dingegno "Born to be Free" da [Patreon](https://www.patreon.com/3Dingegno) o [Liberapay](https://it.liberapay.com/3Dingegno/)
+
 ZPRep è una sonda Z replicabile nata in [3Dingegno.com](http://3dingegno.com/blog/) da MaurinoWeb e Marco Spaccialbelli. Tutti i modelli 3d puoi scaricarli da github.
 
 **ZPRep** è l'acronimo di **Z** **P**robe **Rep**licable, può essere replicata con qualsiasi stampante 3d con un buon settaggio, può essere utilizzata su tutte le stampanti 3d e funziona su tutti i tipi di letto.
