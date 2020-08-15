@@ -1,6 +1,6 @@
 **ENGLISH** / [ITALIANO](README(IT).md)
 
-Support the 3D ingegno project "born to be free" by [Patreon](https://www.patreon.com/3Dingegno) or [Liberapay](https://it.liberapay.com/3Dingegno/)
+Support the 3Dingegno project "born to be free" by [Patreon](https://www.patreon.com/3Dingegno) or [Liberapay](https://it.liberapay.com/3Dingegno/)
 
 ZPRep is a replicable Z probe born in [3Dingegno.com](http://3dingegno.com/blog/) by MaurinoWeb and Marco Spaccialbelli. All 3d models can be downloaded from github.
 
