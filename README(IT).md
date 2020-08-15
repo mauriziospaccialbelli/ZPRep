@@ -9,7 +9,7 @@ Ha bisogno di un attuatore, ma la meccanica dell'attuatore può avere errori fin
 L'attuatore può essere modellato sulla propria stampante secondo le esigenze, presto sarà disponibile l'attuatore per il modulo E3DV6-CLASSIC sulla stampante 3D di MakeXZ, questo utilizza un mini servo per attivare le sonde ZPRep.
 
 Ecco i primi risultati ottenuti con il primo prototipo ZPRep stampato con la Make XZ:
-L'errore massimo tra il letto freddo(22 gradi) e il letto caldo(90 gradi) è stato di 0,02mm/0,03mm. Stiamo avendo ottimi primi strati con offset Z impostato a letto freddo, mentre se si imposta l'offset con il piatto a temperatura media(50/70 gradi), l'errore può essere distribuito per migliorare ulteriormente il primo strato.
+La differenza massima riscontrata tra il letto freddo(22 gradi) e il letto caldo(90 gradi) è stato di 0,02mm/0,03mm. Stiamo avendo ottimi primi strati con offset Z impostato a letto freddo, mentre se si imposta l'offset con il piatto a temperatura media(50/70 gradi), l'errore può essere distribuito per migliorare ulteriormente il primo strato.
 
 La sonda ZPRep ha un diametro di 8 mm per adattarsi facilmente, ha un LED di stato, può essere utilizzato su tutti i tipi di letto e puoi stamparla e costruirla in casa, ma fai attenzione... un malfunzionamento della sonda Z può essere pericoloso!
 
@@ -36,7 +36,5 @@ Buona conoscenza della saldatura a stagno.
 Un pochino di pazienza e precisione nel montaggio ;-)
 
 I modelli scaricabili della ZPRep sono alla prima versione, è un progetto libero e nessuno vieta di migliorarla o personalizzzarla come meglio crede. Per esempio creando un attuatore o prolungando la sonda nella parte inferiore(anche lo stelo) ecc...
-
-Questa è la prima pubblicazione, tutta la documentazione necassaria.
 
 Ne approfitto per ringraziare tutte le comunita libere, in particolare RepRap che è stata l'idea portante per la ZPRep (Z Probe Replicabile)
