@@ -9,7 +9,7 @@ For now, it must be activated with an actuator, but the mechanism of the actuato
 The actuator can be modeled on its own printer according to needs, soon will be available the actuator for the E3DV6-CLASSIC module on 3d-printer MakeXZ, this uses a mini servo to activate the ZPRep probes.
 
 Here are the results obtained with the first prototype ZPRep printed with the Make XZ: 
-The maximum error between the cool bed(22 degrees) and the hot bed(90 degrees) was 0.02mm / 0.03mm. We are having excellent first layers with Z offset set up on cold bed, while if set up Z offset on hot bed with average bed temperature(45/70 degrees), the error can be distributed to further enhance the first layer.
+The maximum difference found between the cool bed(22 degrees) and the hot bed(90 degrees) was 0.02mm / 0.03mm. We are having excellent first layers with Z offset set up on cold bed, while if set up Z offset on hot bed with average bed temperature(45/70 degrees), the error can be distributed to further enhance the first layer.
 
 The ZPRep probe has a diameter of 8mm to fit easily, has a status LED, can be used on all types of bed, and you can print it and build it at home, but be careful... a Probe Z malfunction it could be dangerous!
 
@@ -33,7 +33,5 @@ Good knowledge of tin soldering.
 A bit of patience and precision in construction and assembly ;-)
 
 Zprep downloadable 3dmodels are the first release, it's a free project and nobody forbids it to improve it or customize it as it thinks best. For example, you can create a custom actuator or stretch the probe at the bottom (even the rod) etc ...
-
-This is the first release, soon all the necessary documentation.
 
 I take this opportunity to thank all free communities, especially RepRap, which was the driving idea for the ZPRep (Z Probe Replicable).
