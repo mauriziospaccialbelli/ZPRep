@@ -1,8 +1,6 @@
 **ENGLISH** / [ITALIANO](README(IT).md)
 
-Support the 3Dingegno project "born to be free" by [Patreon](https://www.patreon.com/3Dingegno) or [Liberapay](https://liberapay.com/3Dingegno/)
-
-ZPRep is a replicable Z probe born in [3Dingegno.com](http://3dingegno.com/blog/) by MaurinoWeb and Marco Spaccialbelli. All 3d models can be downloaded from github.
+ZPRep is a replicable Z probe born by [Maurizio Spaccialbelli(MaurinoWeb)](https://www.patreon.com/mauriziospaccialbelli) and Marco Spaccialbelli. All 3d models can be downloaded from github.
 
 **ZPRep** is the acronym of **Z** **P**robe **Rep**licable, can be replicated with any 3d printer with a good set up, can be used on all 3d printers and works on all types of bed.
 
@@ -37,3 +35,5 @@ A bit of patience and precision in construction and assembly ;-)
 Zprep downloadable 3dmodels are the first release, it's a free project and nobody forbids it to improve it or customize it as it thinks best. For example, you can create a custom actuator or stretch the probe at the bottom (even the rod) etc ...
 
 I take this opportunity to thank all free communities, especially RepRap, which was the driving idea for the ZPRep (Z Probe Replicable).
+
+Support and follow the work of Maurizio Spaccialbelli on [Patreon](https://www.patreon.com/mauriziospaccialbelli)
